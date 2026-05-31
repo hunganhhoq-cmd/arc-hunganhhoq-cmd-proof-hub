@@ -1,0 +1,8 @@
+{
+  "chainId": 5042002,
+  "rpc": "https://rpc.testnet.arc.network",
+  "contract": "ArcHunganhhoqCmdProofHub",
+  "address": "0xC29F747e752CBe75DE37f6065d3DE05b69edb361",
+  "txHash": null,
+  "deployer": "0xF226712E3Bb91156E985eb995E1ae524Ca8896EC"
+}
